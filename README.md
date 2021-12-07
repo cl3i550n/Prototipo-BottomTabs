@@ -1,13 +1,13 @@
 # Prototipo | Bottomtabs + Stack Native
 
-<!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
-
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 
 <img src="https://i.ibb.co/DLg9D73/Laboratorio-Do-Dev-Navigation.jpg" alt="Como usar o Bottom Tabs e Stack | React Navigation">
 
 > Repositório de acompanhamento do video ensinando navegações de telas e pequenas personalizações no bottom tabs. <br>
 > Branch ```AddDrawerNavigation``` possui Drawer + Native Stack + Bottomtabs
+
+Link da playlist: https://www.youtube.com/playlist?list=PLA-IC-e_8upTGTZRB8B3VPqmlTkRgTh8s
 
 ## 💻 Pré-requisitos
 
