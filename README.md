@@ -16,7 +16,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você instalou a versão mais recente do `<React Native 0.66.x / NodeJS 16.x / npm 8.x >`
 * Foi desenvolvido em plataforma `<Windows>`. Não testado para versões em `<IOS>`
 
-## 🚀 Instalando Prototipo-Bottom-Tabs
+## 🚀 Instalando Prototipo | Bottomtabs + Stack Native
 
 Para instalar o Prototipo, siga estas etapas:
 
@@ -25,7 +25,7 @@ Windows | Linux (Ubuntu)
 npm install
 ```
 
-## ☕ Usando Prototipo-Bottom-Tabs
+## ☕ Usando Prototipo | Bottomtabs + Stack Native
 
 Para startar Prototipo, siga estas etapas:
 
