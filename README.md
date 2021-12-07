@@ -20,9 +20,9 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 Para instalar o Prototipo, siga estas etapas:
 
-Windows:
+Windows | Linux (Ubuntu)
 ```
-npm i
+npm install
 ```
 
 ## ☕ Usando Prototipo-Bottom-Tabs
@@ -30,7 +30,7 @@ npm i
 Para startar Prototipo, siga estas etapas:
 
 ```
-npm run android
+npm run android   ou   npx react-native run-android
 ```
 
 
