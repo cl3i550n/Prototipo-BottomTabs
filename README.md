@@ -1,7 +1,5 @@
 # Prototipo | Bottomtabs + Stack Native
 
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-
 <img src="https://i.ibb.co/DLg9D73/Laboratorio-Do-Dev-Navigation.jpg" alt="Como usar o Bottom Tabs e Stack | React Navigation">
 
 > Repositório de acompanhamento do video ensinando navegações de telas e pequenas personalizações no bottom tabs. <br>
